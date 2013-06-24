@@ -1,10 +1,6 @@
 <?php
 
-require_once 'classes/item.class.php';
-require_once 'classes/armor.class.php';
-
-require_once 'PHPUnit/Framework/TestCase.php';
-
+require_once "../classes/armor.class.php";
 /**
  * Armor test case.
  */

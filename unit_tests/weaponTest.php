@@ -1,10 +1,5 @@
 <?php
 
-require_once 'classes/item.class.php';
-require_once 'classes/weapon.class.php';
-
-require_once 'PHPUnit/Framework/TestCase.php';
-
 /**
  * Weapon test case.
  */

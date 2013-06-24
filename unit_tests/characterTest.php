@@ -1,8 +1,5 @@
 <?php
 
-require_once 'classes/character.class.php';
-require_once 'PHPUnit/Framework/TestCase.php';
-
 class CharacterTest extends PHPUnit_Framework_TestCase {
 
 	private $character;

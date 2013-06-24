@@ -1,8 +1,8 @@
 <?php
 
-require_once "classes/item.class.php";
-require_once "classes/weapon.class.php";
-require_once "classes/armor.class.php";
+require_once "../classes/item.class.php";
+require_once "../classes/weapon.class.php";
+require_once "../classes/armor.class.php";
 
 class Character {
 

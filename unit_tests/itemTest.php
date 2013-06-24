@@ -1,8 +1,5 @@
 <?php
 
-require_once 'classes/item.class.php';
-require_once 'PHPUnit/Framework/TestCase.php';
-
 /**
  * Item test case.
  */

@@ -1,6 +1,6 @@
 <?php
 
-require_once "classes/dice.class.php";
+require_once "../classes/dice.class.php";
 
 class Enemy {
 

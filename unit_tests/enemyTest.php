@@ -1,8 +1,5 @@
 <?php
 
-require_once 'classes/enemy.class.php';
-require_once 'PHPUnit/Framework/TestCase.php';
-
 class EnemyTest extends PHPUnit_Framework_TestCase {
 
 	private $enemy;

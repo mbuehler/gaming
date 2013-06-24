@@ -1,8 +1,6 @@
 <?php
 
-require_once 'classes/battle.class.php';
-require_once 'PHPUnit/Framework/TestCase.php';
-
+require_once "../classes/battle.class.php";
 /**
  * Battle test case.
  */

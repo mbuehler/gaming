@@ -1,4 +1,5 @@
 <?php
+require_once "../classes/item.class.php";
 
 class Weapon extends Item {
 	private $damage;

@@ -1,8 +1,8 @@
 <?php
 
-require_once "classes/dice.class.php";
-require_once "classes/character.class.php";
-require_once "classes/enemy.class.php";
+require_once "../classes/dice.class.php";
+require_once "../classes/character.class.php";
+require_once "../classes/enemy.class.php";
 
 class Battle {
 
